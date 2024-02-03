@@ -1,0 +1,11 @@
+.name-chip {
+    border: 2px solid black;
+    width: fit-content;
+    padding: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight:800;
+    background-color: white;
+    border-radius: 45px;
+    font-family: cursive;
+}
