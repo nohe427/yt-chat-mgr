@@ -1,13 +1,13 @@
 .name-chip {
     width: fit-content;
-    max-width: 140px;
+    max-width: 240px;
     font-weight:800;
     background-color: white;
 }
 
 p {
     margin:0px;
-    font-size: large;
+    font-size: 1.5em;
     font-family: monospace;
     white-space: nowrap;
     text-overflow: ellipsis;
