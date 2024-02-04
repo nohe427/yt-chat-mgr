@@ -1,16 +1,14 @@
 .name-chip {
-    border: 2px solid black;
     width: fit-content;
-    max-width: 100px;
-    padding-left: 8px;
-    padding-right: 8px;
+    max-width: 140px;
     font-weight:800;
     background-color: white;
-    border-radius: 45px;
 }
+
 p {
     margin:0px;
-    font-family: cursive;
+    font-size: large;
+    font-family: monospace;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
