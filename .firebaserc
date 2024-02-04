@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "yt-chat-section": {
+      "hosting": {
+        "yt-comment-stream": [
+          "yt-chat-section"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "yt-chat-section"
+  }
+}

@@ -93,6 +93,23 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "version": 2
+          },
+          "configurations": {
+            "production": {
+              "buildTarget": "yt-comment-stream:build:production",
+              "serveTarget": "yt-comment-stream:serve:production"
+            },
+            "development": {
+              "buildTarget": "yt-comment-stream:build:development",
+              "serveTarget": "yt-comment-stream:serve:development"
+            }
+          },
+          "defaultConfiguration": "production"
         }
       }
     }

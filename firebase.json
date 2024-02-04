@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "yt-comment-stream",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "us-central1"
+      }
+    }
+  ]
+}
