@@ -4,10 +4,6 @@ profile-name-chip {
     transform: translateX(10%);
 }
 
-:root {
-    width: fit-content;
-}
-
 .profile-container {
     width: fit-content;
 }

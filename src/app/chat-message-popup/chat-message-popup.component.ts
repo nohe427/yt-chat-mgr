@@ -3,7 +3,7 @@ import { ProfileLogoComponent } from '../profile-logo/profile-logo.component';
 import { RegularChatMessageComponent } from '../regular-chat-message/regular-chat-message.component';
 
 @Component({
-  selector: 'app-chat-message-popup',
+  selector: 'chat-message-popup',
   standalone: true,
   imports: [
     ProfileLogoComponent,

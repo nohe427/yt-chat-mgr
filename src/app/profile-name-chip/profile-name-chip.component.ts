@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './profile-name-chip.component.css'
 })
 export class ProfileNameChipComponent {
-  displayName="Nohe Dev"
+  displayName="Nohe Devsad sad asd fasd as fas df asdf"
 }
