@@ -1,0 +1,7 @@
+<h1>Login to get started with the app</h1>
+<p>Login to your pages YouTube app to use the Live Chat feature with your app.</p>
+@if (!isLoggedIn$()) {
+    <button (click)="login()">Sign in</button>
+} @else {
+    <button (click)="logout()">Sign out</button>
+}
